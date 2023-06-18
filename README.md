@@ -18,6 +18,6 @@ https://github.com/Biprock/Tee3D/assets/85643598/7573197d-a5be-4bcc-83d9-dffd466
 
 
 ## Get in Touch 😊
-<a href="https://www.linkedin.com/in/biprajit-suklabaidya-9950b1208/"><img src ="src/img/linkedin.png" style="width:40px;"></a>
-<a href="https://github.com/Biprock"><img src ="src/img/github.png" style="width:40px;"></a>
+<a href="https://www.linkedin.com/in/biprajit-suklabaidya-9950b1208/"><img src ="/client/src/assets/linkedin.png" style="width:40px;"></a>
+<a href="https://github.com/Biprock"><img src ="/client/src/assets/github.png" style="width:40px;"></a>
 
