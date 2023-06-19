@@ -1,6 +1,15 @@
 # Tee3D👕
-Introducing Tee3D. Discover a new dimension in fashion with our immersive 3D clothing website. Create your unique and exclusive shirt with our brand-new 3D customization tool. Unleash your imagination and redefine your own style.
+The future of styling is here . 😎
 
+Introducing Tee3D. Discover a new dimension in fashion with our immersive 3D clothing website. Create your unique and exclusive shirt with this brand-new 3D customization tool. Unleash your imagination and redefine your own style.
+
+## Functionalities
+- Get a color picker to customize your tee as per the color you love.(P.S: I love shades of blue 💙).
+- Dont like solid colors?? Don't worry we got you sorted.😉
+   1. Upload any file from your system and get it as a logo or apply on the full T-shirt.
+   2. AI design assistance 🤖. Got any super modern and fancy ideas in mind, but you can't find it anywhere on the internet? Just ask your AI assistance with the design and boom magic .
+
+      
 ## Preview
 <br>
 <br>
