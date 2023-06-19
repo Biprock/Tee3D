@@ -9,10 +9,8 @@ Introducing Tee3D. Discover a new dimension in fashion with our immersive 3D clo
 ## Video demo
 <br>
 <br>
-<video><source src = "preview.mp4" type="video/mp4"></video>
 
-
-https://github.com/Biprock/Tee3D/assets/85643598/7573197d-a5be-4bcc-83d9-dffd466afa5b
+[preview.webm](https://github.com/Biprock/Tee3D/assets/85643598/ee654cd2-558d-4558-a690-555c28874dba)
 
 ## ❤️Contributions to Tee3D👕 are welcome!❤️
 
